@@ -1,0 +1,29 @@
+.chips-container {
+    padding-bottom: 5px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.pt-flag {
+    padding-left: 5px
+}
+
+.guild-title {
+    color: white;
+    align-items: center;
+    font-size: 20px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.menu-chips {
+    padding-top: 5px;
+    color: green;
+    flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+
